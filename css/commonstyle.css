@@ -1,0 +1,73 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+    min-width: 1000px;
+}
+
+header {
+    height: 119px;
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    width: 220px;
+    height: 79px;
+}
+
+.logo a {
+    display: block;
+    width: 220px;
+    height: 79px;
+    background: url(../images/logo.png) no-repeat;
+    font-size: 0;
+}
+
+.title {
+    position: absolute;
+    top: 40px;
+    left: 400px;
+    color: #0e2a59;
+}
+
+.nav {
+    height: 50px;
+    background-color: #e9ecef;
+}
+
+.navitems ul li {
+    float: left;
+}
+
+.navitems ul li a {
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    font-size: 17px;
+    padding: 0 103px;
+    color: #0e2a59;
+    font-weight: bold;
+}
+
+.navitems ul li a:hover {
+    background-color: #0e2a59;
+    color: white;
+}
+
+.footer {
+    height: 200px;
+    background-color: #1b1c5e;
+    padding-top: 30px;
+}
+
+.address {
+    float: left;
+    width: 300px;
+    color: white;
+}
+
+.contact {
+    float: left;
+    color: white;
+}

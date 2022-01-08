@@ -1,0 +1,30 @@
+EE4717 project README
+
+Yuchen's part
+-------------------------
+NTU GYM/
+
+login.php
+	- include	fill_db.php
+				login_valid.js (login input validation)
+				base.css
+				login.css
+
+
+
+
+
+
+References
+-----------------------
+login&logout&register
+https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
+
+booking system
+https://github.com/shrutisarle/gym_appointment_management_system
+
+settimezone
+date_default_timezone_set('Asia/Singapore');
+
+VM time error: set correct time
+https://stackoverflow.com/questions/16592142/retrieve-time-from-ntp-server-via-php

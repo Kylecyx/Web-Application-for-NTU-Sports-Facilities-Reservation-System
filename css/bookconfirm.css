@@ -1,0 +1,43 @@
+.main {
+    height: 700px;
+    width: 460px;
+    margin: 0 auto;
+    font: 14px sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.main h1 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+.main a {
+    display: block;
+    margin: 10px;
+}
+
+.my-5 a {
+    display: block;
+    width: 200px;
+    height: 50px;
+    background-color: #0e2a59;
+    color: white;
+    margin: 0 auto;
+    padding-top: 14px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.my-5 a:hover {
+    background-color: gray;
+}
+
+b p {
+    color: #d7143f;
+}
+
+.my-5 table {
+    margin: 0 auto;
+}

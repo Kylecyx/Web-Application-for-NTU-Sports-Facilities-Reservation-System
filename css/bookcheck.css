@@ -1,0 +1,40 @@
+.booking {
+    height: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.table {
+    margin: 0 auto;
+    width: 900px;
+    color: black;
+    border: solid #1b1c5e;
+}
+
+.booking h1 {
+    margin-top: 20px;
+    color: #1b1c5e;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.table th,
+td {
+    width: 80px;
+    font-size: 15px;
+}
+
+.cancel {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 180px;
+    height: 50px;
+    background-color: #1b1c5e;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.cancel:hover {
+    background-color: gray;
+}

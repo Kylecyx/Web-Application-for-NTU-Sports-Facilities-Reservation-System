@@ -1,0 +1,60 @@
+.main {
+    height: 600px;
+}
+
+.h1 {
+    color: #0e2a59;
+    padding-top: 30px;
+}
+
+.h4 {
+    padding-right: 100px;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    font-size: 16px;
+}
+
+.box {
+    margin: 0 auto;
+    width: 500px;
+    height: 230px;
+    border: solid #d9d7d7;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.venue {
+    width: 220px;
+    height: 30px;
+}
+
+center {
+    padding-top: 15px;
+}
+
+center input {
+    width: 180px;
+    height: 40px;
+    background-color: #0e2a59;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+center input:hover {
+    background-color: gray;
+}
+
+p {
+    font-size: 8px;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.back {
+    display: block;
+    padding-top: 5px;
+}

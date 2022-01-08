@@ -1,0 +1,94 @@
+.main {
+    width: 1200px;
+    height: 1500px;
+}
+
+.img1 {
+    position: relative;
+    padding-top: 30px;
+    width: 1100px;
+    height: 550px;
+    margin: 0 50px;
+}
+
+.title1 {
+    position: absolute;
+    width: 260px;
+    height: 100px;
+    background-color: #1b1c5e;
+    top: 412px;
+    left: 0px;
+}
+
+.title1 h2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+.title1 h1 {
+    color: white;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.main .text {
+    float: left;
+    width: 800px;
+    height: 900px;
+    margin: 0 0 0 50px;
+}
+
+.main .info {
+    float: right;
+    width: 250px;
+    height: 600px;
+    margin-right: 50px;
+    /* background-color: aqua; */
+}
+
+.info .button {
+    width: 250px;
+    height: 120px;
+    background-color: #1b1c5e;
+    text-align: center;
+    padding-top: 22px;
+    color: white;
+}
+
+.button h1 {
+    font-size: 30px;
+}
+
+.button h4 {
+    font-size: 20px;
+}
+
+.button:hover {
+    background-color: gray;
+}
+
+.info .hours {
+    width: 250px;
+    padding-top: 10px;
+    padding-left: 20px;
+    height: 300px;
+    margin-top: 20px;
+    background-color: #eaecef;
+    box-shadow: -5px 5px 5px -4px #888, 5px 5px 5px -4px #888;
+}
+
+.text h1 {
+    color: black;
+    font-size: 30px;
+    padding-left: 18px;
+}
+
+.text .word {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: black;
+}

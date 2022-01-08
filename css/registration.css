@@ -1,0 +1,56 @@
+.main h1 {
+    text-align: center;
+    color: #1b1c5e;
+    font-size: 28px;
+    padding: 10px 0;
+}
+
+.wrapper {
+    width: 500px;
+    height: 550px;
+    padding: 20px;
+    background-color: #e9ecef;
+    margin: 0 auto;
+}
+
+.wrapper h4 {
+    color: black;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.form-group {
+    margin: 13px;
+}
+
+.form-group input {
+    width: 435px;
+    height: 40px;
+    padding-left: 15px;
+    border: 0;
+    outline: none;
+}
+
+.form-group .submit,
+.form-group .reset {
+    background-color: #1b1c5e;
+    margin: 10px 0 5px;
+    border-radius: 6px;
+    color: white;
+}
+
+.form-group .reset {
+    background-color: #c53044;
+}
+
+.form-group .reset:hover {
+    background-color: darkred;
+}
+
+.form-group .submit:hover {
+    background-color: gray;
+}
+
+.wrapper p {
+    text-align: center;
+}

@@ -1,0 +1,193 @@
+.window {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font: normal 16px/1.2em 'Raleway', sans-serif;
+    color: #362b27;
+}
+
+h2 {
+    height: 2px;
+    font-size: 40px;
+    font-weight: 100;
+    /* line-height: .9em; */
+    text-align: center;
+    padding-left: 35px;
+}
+
+h3 {
+    height: 2px;
+    font-size: 110%;
+    color: #c8801a;
+    padding: 0px 0 4px 0;
+    font-weight: 900;
+}
+
+h5 {
+    font-size: 170%;
+    font-weight: 900;
+    color: #c8801a;
+}
+
+b,
+strong {
+    font-weight: 900;
+}
+
+a {
+    text-decoration: underline;
+}
+
+s,
+span {
+    font: inherit;
+    color: inherit;
+}
+
+li {
+    list-style: square;
+    list-style-position: outside;
+    margin-left: 1em;
+}
+
+span {
+    color: #c8801a;
+}
+
+table {
+    margin: 0 auto;
+}
+
+th,
+th label {
+    font-weight: bold;
+}
+
+td {
+    padding: 8px 0px;
+}
+
+input[type=email] {
+    border: 2px solid #c8801a;
+    padding: 2px 4px;
+}
+
+center {
+    padding-top: 30px;
+}
+
+input[type=submit] {
+    background: #0e2a59;
+    color: #fff;
+    padding: 4px 12px;
+    border-radius: 12px;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+}
+
+input[type=submit]:hover {
+    background-color: gray;
+}
+
+.window {
+    border: solid gray;
+    background: #fff;
+    padding: 10px 65px;
+    border-radius: 10px;
+    width: 850px;
+    margin: 20px auto;
+    clear: both;
+    min-height: 480px;
+}
+
+.reservation label {
+    padding: 4px 14px;
+    border-radius: 16px;
+}
+
+.reservation td {
+    text-align: center;
+}
+
+.reservation a {
+    border-radius: 20px;
+    background: #c8801a;
+    padding: 6px 12px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.reservation h3 {
+    font-size: 30px;
+    color: #0e2a59;
+}
+
+.avail {
+    background: #0e2a59;
+    color: white;
+}
+
+.avail:hover {
+    background: gray;
+    color: white;
+}
+
+.hold {
+    background: #c00;
+    color: #ff0;
+}
+
+.hold:hover {
+    background: #900;
+}
+
+.closed {
+    color: #999;
+    background: white;
+    text-decoration: line-through;
+}
+
+.closed input,
+.reserved input {
+    display: none;
+}
+
+.reserved {
+    background: #c8801a;
+    color: white;
+    text-decoration: line-through;
+}
+
+.daily {
+    border: thin solid black;
+    border-bottom: black thick solid;
+}
+
+.drivers {
+    font-size: 75%;
+}
+
+.biggie {
+    font-size: 150%;
+    font-weight: bold;
+    text-shadow: -1px -1px #fff;
+    color: #090;
+    background: #8eff51;
+    text-align: center;
+    float: right;
+    clear: both;
+    border-radius: 16px;
+    text-decoration: none;
+    padding: 6px 12px;
+    border: 3px solid #090;
+    border-bottom: 8px solid #090;
+    margin: 5px auto;
+}
+
+.back {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
